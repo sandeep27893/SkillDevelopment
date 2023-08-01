@@ -1,0 +1,45 @@
+Basic Android
+
+Android, Kotlin, Java, Design Patterns & Architectural Patterns
+
+Persistence:- Shared preferences / Realm database
+Android async process :- Workmanager/ Android services
+
+Multithreading :- RxJava/ Coroutines
+
+Networking :- Retrofit
+
+Android UI :-
+
+Custom views
+Recycler view
+Coordinator layout
+Constraint layout
+Android styles
+Android dimens
+Android fragments
+Activity lifecycle
+Camera management
+Compose
+
+Presentation architecture :- MVP/MVVM
+
+Design patterns :- Decorator/ Builder/Factory/ SOLID principles/ Repository pattern
+
+Repository:- Git/ Git flow / Trunk base
+
+CI/CD :- Bitrise/ Fastlane
+
+Android jetpack:-
+
+View Model
+Live Data
+Compose
+Navigation
+Paging
+Coroutines
+Flow
+StateFlow
+Room
+
+topic :- about topic(intro , lifecycle, defination, purpose

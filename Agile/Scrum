@@ -1,0 +1,28 @@
+Scrum ceremonies, also known as Scrum events, are specific meetings and activities that take place within the Scrum framework.
+These ceremonies provide structure and opportunities for collaboration, transparency, and inspection and adaptation throughout the project.
+Here are the key Scrum ceremonies:
+
+Sprint Planning: This ceremony marks the beginning of each sprint. The Scrum team, including the product owner and development team, comes together to determine which
+items from the product backlog will be worked on in the upcoming sprint. The team creates a sprint goal and defines the tasks needed to accomplish it.
+
+Daily Scrum (Stand-up): The Daily Scrum is a short daily meeting where the development team synchronizes their work.
+Each team member shares three things: what they did since the last meeting, what they plan to do until the next meeting, and any obstacles or challenges they are facing.
+It is typically time-boxed to 15 minutes and is held standing up to keep it concise.
+
+Sprint Review: At the end of each sprint, the team holds a sprint review to demonstrate the completed work to stakeholders, such as the product owner, customers,
+or users. The team showcases the increment and gathers feedback, which helps inform future iterations and product backlog refinement.
+
+Sprint Retrospective: The sprint retrospective is a reflective meeting that occurs after the sprint review.
+The Scrum team reviews the sprint, focusing on what went well, what could be improved, and any action items to enhance their effectiveness.
+It is an opportunity to learn from the previous sprint and identify adjustments to make in the next one.
+
+Additionally, there are two important artifacts in Scrum that facilitate communication and transparency:
+
+Product Backlog: The product backlog is a prioritized list of all the desired features, enhancements, and bug fixes for the product.
+It is managed by the product owner and serves as the single source of requirements for the development team.
+The product backlog evolves and is refined throughout the project.
+
+Sprint Backlog: The sprint backlog is a subset of the product backlog items selected for the current sprint.
+It contains the tasks needed to deliver the sprint goal. The development team owns the sprint backlog and updates it during the sprint as work progresses.
+
+These Scrum ceremonies and artifacts promote collaboration, transparency, and continuous improvement within the Scrum framework, enabling teams to deliver value incrementally and adapt to changing requirements effectively.
